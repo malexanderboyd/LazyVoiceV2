@@ -39,7 +39,11 @@
             this.outputTextBox.Name = "outputTextBox";
             this.outputTextBox.Size = new System.Drawing.Size(457, 246);
             this.outputTextBox.TabIndex = 0;
-            this.outputTextBox.Text = "-Log-";
+            this.outputTextBox.Text = "LazyVoice is made by M. Alex Boyd. \n This program was made because I am lazy and don't feel like moving to turn my volume up on my computer. \n" +
+                "COMMANDS: \n \"Volume Up\" \\ \"Turn Up\" - Speak either of these phrases to turn up the volume. \n" +
+                "\"Volume Down\" \\ \"Turn Down\" - Speak either of these phrases to turn down the volume. \n" +
+                "\"Mute\" \\ \"Unmute\" - Speak either of these phrases to mute/unmute the volume. \n" + "---Begin Log---"
+                ;
             // 
             // enableVoiceButton
             // 
