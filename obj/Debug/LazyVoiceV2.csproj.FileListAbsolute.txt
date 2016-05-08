@@ -1,0 +1,12 @@
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\bin\Debug\LazyVoiceV2.exe.config
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\bin\Debug\LazyVoiceV2.exe
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\bin\Debug\LazyVoiceV2.pdb
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\obj\Debug\LazyVoiceV2.csprojResolveAssemblyReference.cache
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\obj\Debug\LazyVoiceV2.Form1.resources
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\obj\Debug\LazyVoiceV2.Properties.Resources.resources
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\obj\Debug\LazyVoiceV2.csproj.GenerateResource.Cache
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\obj\Debug\LazyVoiceV2.exe
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\obj\Debug\LazyVoiceV2.pdb
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\bin\Debug\InputSimulator.dll
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\bin\Debug\InputSimulator.pdb
+A:\School Stuff - Work Files\Projects\LazyVoice\LazyVoiceV2\LazyVoiceV2\bin\Debug\InputSimulator.xml
